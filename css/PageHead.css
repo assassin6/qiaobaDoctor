@@ -1,0 +1,47 @@
+#PageTitle{
+    float: left;
+    line-height:100px;
+    color: black
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+img{
+    float: left;
+}
+#searchDisease{
+    float: left;
+    width: 200px;
+    height:30px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    margin-left: 100px;
+}
+a{
+    text-decoration: none;
+}
+button{
+    font-size: 20px;
+    border: none;
+    float: left;
+    height:30px;
+    width:30px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+#signBar{
+    line-height: 100px;
+    margin-left:200px;
+    float: left;
+}
+#tapController div{
+    margin-left: 10px;
+    margin-right: 50px;
+    float: left;
+    line-height: 50px;
+}
+#tapController a{
+
+    color: #f8f8f8;
+}

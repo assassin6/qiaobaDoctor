@@ -1,0 +1,31 @@
+.showHospital{
+    display: block
+}
+span.area:hover{
+    color: blue
+}
+.hideHospital{
+    display: none
+}
+.onSelect{
+   color: red;
+}
+.unSelect{
+    float: left;
+}
+.unSelect:hover{
+    color: red
+}
+#signTapUser{
+    float: left;
+}
+.signTap{
+    float: left;
+    font-size: 20px;
+}
+#signTap{
+    height: 30px;
+    padding: 2px;
+    width: 80%;
+    margin:10px 20px 10px 30px
+}
